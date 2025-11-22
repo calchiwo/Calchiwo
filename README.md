@@ -41,7 +41,7 @@ Iâ€™m a 15-year-old self-taught software developer from Nigeria. I build appsðŸ“
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://facebook.com/calchiwo" target="_blank">
+  <a href="https://facebook.com/calchiw0" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" />
   </a>
   &nbsp;&nbsp;
