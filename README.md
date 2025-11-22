@@ -18,42 +18,38 @@ I’m a 15-year-old self-taught software developer from Nigeria. I build apps�
 
 <p align="center">
   <a href="https://x.com/calchiwo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://instagram.com/calchiwo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/instagram.svg" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://linkedin.com/in/calchiwo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/calchiwo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://youtube.com/@calchiwo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/youtube.svg" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://t.me/calchiwo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/telegram.svg" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://facebook.com/calchiwo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/facebook.svg" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://threads.net/@calchiwo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/threads.svg" width="40" />
+    <img src="https://static.cdnlogo.com/logos/t/58/threads-app-icon.svg" width="40" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.snapchat.com/add/calchiwo" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/snapchat.svg" width="40" />
+    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" />
   </a>
 </p>
-
-<p align="center"><strong>📌 Check out my pinned projects and see what I’m building 👇</strong></p>
-
----
