@@ -6,7 +6,7 @@ I learn by doing, experiment a lot, and love turning ideas into real projects.
 
 My goal is to make tech fun, accessible, and inspiring for everyone.
 
-Let’s connect and build something amazing together 🤩
+Let’s connect and build something amazing together🤩
 
 ---
 
