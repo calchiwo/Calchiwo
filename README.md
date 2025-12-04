@@ -21,43 +21,10 @@ Let’s connect and build something amazing together 🤩
 
 
 ## 🤝 Let’s Connect
-
-<p align="center">
-  <a href="https://x.com/calchiwo" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968835.png" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/calchiwo" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/calchiwo" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/calchiwo" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://youtube.com/@calchiwo" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/calchiwo" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://facebook.com/calchiw0" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://threads.net/@calchiwo" target="_blank">
-    <img src="https://static.cdnlogo.com/logos/t/58/threads-app-icon.svg" width="40" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.snapchat.com/add/calchiwo" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/3670/3670147.png" width="40" />
-  </a>
+[Twitter](https://x.com/calchiwo)
+[YouTube](https://youtube.com/calchiwo)
+[](https://x.com/calchiwo)
+[Twitter](https://x.com/calchiwo)
 
 <p align="center"><strong>📌 Check out my pinned projects and see what I’m building 👇</strong></p>
 
