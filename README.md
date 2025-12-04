@@ -8,17 +8,17 @@ Let’s Connect and Build amazing things together 🤩
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=calchiwo&show_icons=true&theme=radical)
 
-### 🛠 My Languages
+### 🛠 Tech Stack
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calchiwo&layout=compact&theme=radical)
 
-### 🔥 My GitHub Streak
+### 🔥 GitHub Streak
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=calchiwo&theme=radical)
 
 
-## 🤝 Let’s Connect
+## 🤝 Socials
 - [Twitter](https://x.com/calchiwo)
 - [YouTube](https://youtube.com/calchiwo)
 - [LinkedIn](https://linkedin.com/in/calchiwo)
